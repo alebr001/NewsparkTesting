@@ -1,0 +1,22 @@
+4 stages
+
+uncommitted
+committed
+staged
+pushed
+
+
+push: hele repo van client naar server. hierbij kun je wel aangeven wat wel en niet meegaat
+github: server waar alles heengaat met git
+
+pull request: alles is af, maar voordat het naar de main branch gaat, kun je aan je team vragen voor een review. 
+remote repo: server waar je alles op synchroniseert.
+
+
+bitbucket, github, sourcetree gui,  
+
+
+
+mkdir, git init, git remote add origin + url
+of: clone + url, die voert hierboven staande stappen in 1 keer uit. 
+
